@@ -1,0 +1,7 @@
+Simple 
+
+User Interface for Inventory
+Inventory Database
+Barcode Reading and Item Organization
+Checkout System
+Regular System Backups

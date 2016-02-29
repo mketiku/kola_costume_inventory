@@ -1,0 +1,45 @@
+H:\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe.config
+H:\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe
+H:\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).pdb
+H:\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).xml
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmMain.resources
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Resources.resources
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbproj.GenerateResource.Cache
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).exe
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).xml
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).pdb
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Login.resources
+H:\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Start.resources
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe.config
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).exe
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).xml
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).pdb
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).pdb
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).xml
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbprojResolveAssemblyReference.cache
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Login.resources
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmMain.resources
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Resources.resources
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Start.resources
+\\bufiles\user\mketiku\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbproj.GenerateResource.Cache
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe.config
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).exe
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).xml
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).pdb
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).pdb
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).xml
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbprojResolveAssemblyReference.cache
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmMain.resources
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.Resources.resources
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbproj.GenerateResource.Cache
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmLogin.resources
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmSearch.resources
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume_Manager_V6_.frmStart.resources
+C:\Users\SSD\Desktop\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Logon.mdb
+C:\Users\Michael\Documents\GitHub\CostumeInventoryDatabaseManager-V6-\Costume Manager(V6)\Costume Manager(V6)\bin\Debug\Costume Manager(V6).exe.config
+C:\Users\Michael\Documents\GitHub\CostumeInventoryDatabaseManager-V6-\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).exe
+C:\Users\Michael\Documents\GitHub\CostumeInventoryDatabaseManager-V6-\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).xml
+C:\Users\Michael\Documents\GitHub\CostumeInventoryDatabaseManager-V6-\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).pdb
+C:\Users\Michael\Documents\GitHub\CostumeInventoryDatabaseManager-V6-\Costume Manager(V6)\Costume Manager(V6)\obj\Debug\Costume Manager(V6).vbprojResolveAssemblyReference.cache
