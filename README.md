@@ -17,7 +17,7 @@ Our Engineering Projects in Community Service (EPICS) team is tasked with creati
 ### TLDR Feature Rundown
 ______________________________________________________
 
-### Database:
+#### Database:
 - Catalogues items based on physical attributes, storage location, and other identifying features.
 - Items are uniquely identified through a barcode ID and sequential database ID.
 - Related attributes are divided into tables in order to cut the fat and increase the ease of navigation.
@@ -25,7 +25,7 @@ ______________________________________________________
 - Modification and searching of the database is done through the PHP web application.
 
 
-### Web Application:
+#### Web Application:
 - Filter/Search costume pieces by one or more of the following characteristics:
     - Characteristics (color, measurements, material, ect...)
     - Era (20’s, 30’s, medieval, fantasy ect...)
