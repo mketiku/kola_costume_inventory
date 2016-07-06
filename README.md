@@ -14,14 +14,16 @@ Our Engineering Projects in Community Service (EPICS) team is tasked with creati
 - Primary Contact: Teka England (tengland@butler.edu)
 - Secondary Contacts: Panos Linos (plinos@butler.edu)
 
-## BU Theatre Database: The “tl;dr” Features Rundown
+### TLDR Feature Rundown
 ______________________________________________________
 
 ### Database:
-Catalogues items based on physical attributes, storage location, and other identifying features. Items are uniquely identified through a barcode ID and sequential database ID.
-Related attributes are divided into tables in order to cut the fat and increase the ease of navigation.
-Database has a built in auto-backup feature that will periodically create a snapshot of the database that can be reverted to in case of an emergency.
-Modification and searching of the database is done through the PHP web application.
+- Catalogues items based on physical attributes, storage location, and other identifying features.
+- Items are uniquely identified through a barcode ID and sequential database ID.
+- Related attributes are divided into tables in order to cut the fat and increase the ease of navigation.
+- Database has a built in auto-backup feature that will periodically create a snapshot of the database that can be reverted to in case of an emergency.
+- Modification and searching of the database is done through the PHP web application.
+
 
 ### Web Application:
 - Filter/Search costume pieces by one or more of the following characteristics:
