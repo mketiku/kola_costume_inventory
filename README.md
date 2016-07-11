@@ -11,6 +11,15 @@ The Butler University Theater Costume Shop (BUTCS) department seeks an organizat
 
 Our Engineering Projects in Community Service (EPICS) team is tasked with creating an application that will facilitate cataloguing of the Theatre Department’s stock alongside a few added bells and whistles such as rental and administrative systems. With the guidance of facilitator, Dr. Panos Linos, we aim to provide an adequate solution.
 
+Team Roles:
+
+- Michael: Team Lead, Coder, Documentation, Client Liaison
+- Jacob: Database Design, Documentation, Graphic Designer
+- Heath: Research, Subroutine Coder (Rental Sheet, Barcode Reader)
+- Joe: Database Developer, Quality Assurance
+- Ade: Testing, Presentation Management, Research
+
+Contacts
 - Primary Contact: Teka England (tengland@butler.edu)
 - Secondary Contacts: Panos Linos (plinos@butler.edu)
 
