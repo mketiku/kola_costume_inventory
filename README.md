@@ -1,4 +1,4 @@
-# KOLA
+# KOLA Costume Inventory 
 Kola is an Inventory Management application built to assist with cataloguing costumes, props and accessories by the Costume Shop for the Theater department.
 
 ### About 
