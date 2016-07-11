@@ -49,3 +49,15 @@ ______________________________________________________
     - Manage rentals to both Butler students and other organizations using the barcode system.
     - After reading in the item barcode and inputting the renter information, one can print out a rental sheet for records.
     - Revert to a previous database snapshot should it be necessary.
+______________________________________________________
+Installation
+Mutant Office Hours  requires [visual studio] (https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx) and MS Access(https://products.office.com/en-us/access) to run.
+
+```sh
+$ git clone [git-repo-url] kola_costume_inventory
+$ cd kola_costume_inventory
+```
+then open up the project in visual studio and click on the play button to run the application.
+
+
+
